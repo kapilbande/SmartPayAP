@@ -41,7 +41,7 @@ python scripts/train_model.py
 
 This creates the model file:
 
-models/recon_model.pkl
+models/matcher.pkl
 
 6. Run Workflow (D3)
 
